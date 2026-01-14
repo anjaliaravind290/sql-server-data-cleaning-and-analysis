@@ -3,11 +3,11 @@ SQL data cleaning and COVID-19 exploratory analysis project
 
 📊 SQL Server Data Cleaning and Analysis
 
-📌 Project Overview
+##📌 Project Overview
 
 This project demonstrates an end-to-end SQL Server workflow including database setup, data cleaning, and exploratory data analysis. The project uses sample housing and COVID-19 datasets to showcase practical SQL skills commonly required for Data Analyst and SQL Developer roles.
 
-🗂️ Datasets Used
+##🗂️ Datasets Used
 
 NashvilliHousing – Real estate transaction data used for data cleaning
 
@@ -16,7 +16,7 @@ CovidDeaths – COVID-19 cases, deaths, and population data
 CovidVaccinations – COVID-19 vaccination data
 
 
-🛠️ Skills Demonstrated
+##🛠️ Skills Demonstrated
 
 SQL Server (T-SQL)
 
