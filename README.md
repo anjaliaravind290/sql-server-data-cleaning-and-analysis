@@ -18,11 +18,11 @@ CovidVaccinations – COVID-19 vaccination data
 
 ## 🛠️ Skills Demonstrated
 
-SQL Server (T-SQL)
+- SQL Server (T-SQL)
 
-Data Cleaning & Transformation
+- Data Cleaning & Transformation
 
-Joins and Self Joins
+- Joins and Self Joins
 
 Common Table Expressions (CTEs)
 
