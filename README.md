@@ -10,9 +10,11 @@ This project demonstrates an end-to-end SQL Server workflow including database s
 🗂️ Datasets Used
 
 NashvilliHousing – Real estate transaction data used for data cleaning
+
 CovidDeaths – COVID-19 cases, deaths, and population data
 
 CovidVaccinations – COVID-19 vaccination data
+
 
 🛠️ Skills Demonstrated
 
