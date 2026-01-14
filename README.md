@@ -2,6 +2,7 @@
 SQL data cleaning and COVID-19 exploratory analysis project
 
 📊 SQL Server Data Cleaning and Analysis
+
 📌 Project Overview
 
 This project demonstrates an end-to-end SQL Server workflow including database setup, data cleaning, and exploratory data analysis. The project uses sample housing and COVID-19 datasets to showcase practical SQL skills commonly required for Data Analyst and SQL Developer roles.
